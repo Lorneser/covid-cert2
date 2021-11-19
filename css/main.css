@@ -59,7 +59,7 @@
     margin: -100px 0 0 -100px;
     width: 200px;
     height: 200px;
-    background: #fff url(https://gu-st.ru/covid-web-st/static-pages-assets/svg/HEX_blue.svg) no-repeat center center;
+    background: #fff url(../images/HEX_blue.svg) no-repeat center center;
     opacity: .3
 }
 
@@ -73,7 +73,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: url(https://gu-st.ru/covid-web-st/static-pages-assets/svg/HEX.svg) no-repeat center center
+    background: url(../images/HEX.svg) no-repeat center center
 }
 
 .app-logo {
@@ -86,7 +86,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: url(https://gu-st.ru/covid-web-st/static-pages-assets/svg/gos_logo_mobile.svg) no-repeat center center
+    background: url(../images/gos_logo_mobile.svg) no-repeat center center;
 }
 
 body {
